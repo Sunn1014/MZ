@@ -1,0 +1,19 @@
+{
+  "name": "sunn",
+  "version": "1.0.0",
+  "description": "This repository is for the creation of mz clothing website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sunn",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongodb": "^6.15.0",
+    "mongoose": "^8.13.2",
+    "nodemailer": "^6.10.1",
+    "nodemon": "^3.1.9"
+  }
+}
